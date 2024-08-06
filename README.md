@@ -1,1 +1,1 @@
-# recipes
+Questo progetto è un sito web con una homepage con dei link che portano alle pagine delle specifiche ricette. Ho usato Git per caricare le versioni sul repository remoto su GitHub.
